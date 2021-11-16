@@ -120,7 +120,7 @@
     - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
     - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
-- Linked List
+- [Linked List](https://youtu.be/58YbpRDc4yw)
     - Introduction
     - Fast and slow pointer
     - Cycle Detection
